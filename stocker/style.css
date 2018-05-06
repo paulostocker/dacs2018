@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+
+body {
+   	background-image: url("images/bg.jpg");       
+   	background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment:fixed;
+  	background-color: #cccccc;
+  	font-family: 'Source Sans Pro', sans-serif;
+   	text-align: center;
+   	color: white;
+    height: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+#headerimg h1{
+    font-size: 60px;
+}
+
+.postBox {
+	background: rgba(0,0,0,0.3);    
+	width: 75%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.postTitle {
+	font-size: 22px;
+	float:left;
+	width: 50%;
+}
+.postDate {
+	float:left;
+	width: 50%;
+}
